@@ -1,0 +1,35 @@
+body > div.body-inner > section.call-to-action-box.no-padding > div > div {
+    background-color: #841c1c;
+}
+
+#header > div.site-navigation > div > div.row > div > nav > button {
+    background-color: #841c1c;
+}
+
+#navbar-collapse > ul > li > a {
+    color: #ffffff !important;
+    
+}
+#ts-features > div > div > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div > span > i{
+    color: #841c1c;
+}
+
+#ts-features > div > div > div:nth-child(1) > div:nth-child(3) > div:nth-child(2) > div > span > i{
+    color: #841c1c;
+}
+
+#ts-features > div > div > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > div > span > i{
+    color: #841c1c;
+}
+
+#ts-features > div > div > div:nth-child(1) > div:nth-child(4) > div:nth-child(2) > div > span > i{
+    color: #841c1c;
+}
+
+body > div.body-inner > section.subscribe.no-padding > div > div > div.col-lg-4 > div > h5{
+    color: #ffffff;
+}
+
+body > div.body-inner > section.subscribe.no-padding > div > div > div.col-lg-4 > div > h5:nth-child(3){
+    padding-bottom: 20px;
+}
